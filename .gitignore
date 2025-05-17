@@ -2,5 +2,4 @@ verilog_libs.cache/
 verilog_libs.hw/
 verilog_libs.ip_user_files/
 verilog_libs.sim/
-verilog_libs.srcs/
 verilog_libs.xpr
