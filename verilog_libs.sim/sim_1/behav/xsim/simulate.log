@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+Time = 0ns, rst = 1, clear = 0, enable = 0, done = x
+Time = 5ns, rst = 1, clear = 0, enable = 0, done = 0
+Time = 20ns, rst = 0, clear = 0, enable = 0, done = 0
+Time = 30ns, rst = 0, clear = 0, enable = 1, done = 0
+Time = 125ns, rst = 0, clear = 0, enable = 1, done = 1
+Time = 135ns, rst = 0, clear = 0, enable = 1, done = 0
+Time = 225ns, rst = 0, clear = 0, enable = 1, done = 1
+Time = 235ns, rst = 0, clear = 0, enable = 1, done = 0
+Time = 325ns, rst = 0, clear = 0, enable = 1, done = 1
+Time = 330ns, rst = 0, clear = 1, enable = 1, done = 1
+Time = 335ns, rst = 0, clear = 1, enable = 1, done = 0
+Time = 340ns, rst = 0, clear = 0, enable = 1, done = 0
+Time = 435ns, rst = 0, clear = 0, enable = 1, done = 1
+Time = 445ns, rst = 0, clear = 0, enable = 1, done = 0
+Time = 535ns, rst = 0, clear = 0, enable = 1, done = 1
+Time = 540ns, rst = 0, clear = 0, enable = 0, done = 1
+Time = 545ns, rst = 0, clear = 0, enable = 0, done = 0
+$finish called at time : 590 ns : File "C:/Users/punee/Downloads/verilog_libs/verilog_libs.srcs/sim_1/new/timer_tb.v" Line 84
